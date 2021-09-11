@@ -5,15 +5,15 @@ import Container from "react-bootstrap/Container";
 import Particles from "react-particles-js";
 import { particlesOptions } from "./particlesOptions";
 
-import MyNavbar from "./components/MyNavbar";
-import MyCorausal from './components/corousal/MyCorausal';
-import TitleText from "./components/title/TitleText";
-import ScrollDown from "./components/scroll-down/ScrollDown";
-import AboutMe from "./pages/about/AboutMe";
+import MyNavbar from "./components/Mynavbar";
+import MyCorausal from './components/corousal/Mycorausal';
+import TitleText from "./components/title/Titletext";
+import ScrollDown from "./components/scroll-down/scrolldown";
+import AboutMe from "./pages/about/Aboutme";
 import background from "./images/background.jpg";
-import MySkills from "./pages/skills/MySkills";
-import MyContact from "./pages/contact/MyContact";
-import MyFooter from "./components/footer/MyFooter";
+import MySkills from "./pages/skills/Myskills";
+import MyContact from "./pages/contact/Mycontact";
+import MyFooter from "./components/footer/Myfooter";
 import "./App.css";
 
 function App() {
