@@ -6,7 +6,7 @@ import Particles from "react-particles-js";
 import { particlesOptions } from "./particlesOptions";
 
 import MyNavbar from "./components/MyNavbar";
-import MyCorausal from './components/Corousal/MyCorausal';
+import MyCorausal from './components/corousal/MyCorausal';
 import TitleText from "./components/title/TitleText";
 import ScrollDown from "./components/scroll-down/ScrollDown";
 import AboutMe from "./pages/about/AboutMe";
